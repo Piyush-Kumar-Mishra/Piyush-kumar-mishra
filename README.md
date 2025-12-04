@@ -1,1 +1,1 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=50&duration=2000&pause=1800&color=FFFFFF&background=FFFFFF00&width=480&height=100&lines=Piyush+Kumar+Mishra...)](https://git.io/typing-svg)
