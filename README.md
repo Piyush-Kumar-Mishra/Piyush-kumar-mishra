@@ -106,4 +106,15 @@
 <br>
 <img width="1027" height="295" alt="image" src="https://github.com/user-attachments/assets/b2263491-ea8a-4ddf-90e2-57e7f7461f07" />
 
+<br>
+
+<h3>💻 GitHub Profile Stats ... <img src="https://komarev.com/ghpvc/?username=piyush-kumar-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-kumar-mishra" </p>
+</h3> 
+
+<p>
+  <img 
+    alt="Activity Graph" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-kumar-mishra&bg_color=0D1117&color=00e6a8&line=00e6a8&point=FFFFFF&hide_border=true"
+  />
+
 </p>
