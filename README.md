@@ -14,4 +14,25 @@
   />
 </a>
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mishrapiyush0220" target="_blank">
+  <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
+</a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://leetcode.com/u/piyushkumar165mlr/" target="_blank">
+  <img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/user-attachments/assets/afa3ba0a-ba75-4092-bc8a-fa69c1681c9f" />
+</a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+
+</p>
+
+
+
+
+
 </p>
