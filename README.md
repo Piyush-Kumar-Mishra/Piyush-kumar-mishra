@@ -25,7 +25,8 @@
 
 </p> -->
 
-<h2 align="left" id="macropower-tech">Languages and Tools</h2>
+<!-- <h2 align="left" id="macropower-tech">Languages and Tools</h2> -->
+# Languages and Tools
 <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img 
     src="https://readme-typing-svg.demolab.com/?lines=C%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20SQL;Kotlin%20%7C%20Android%20%7C%20Jetpack%20Compose;Always%20learning%20%26%20improving&font=Fira%20Code&width=600&height=45&color=00c896&pause=1000&size=22" 
@@ -102,19 +103,35 @@
   </tr>
 </table>
 
-<h2 align="left" id="macropower-tech">Holopin Badges</h2>
+<!-- <h2 align="left" id="macropower-tech">Holopin Badges</h2> -->
+# Holopin Badges
+
 <br>
 <img width="1027" height="295" alt="image" src="https://github.com/user-attachments/assets/b2263491-ea8a-4ddf-90e2-57e7f7461f07" />
 
 <br>
 
-<h3>💻 GitHub Profile Stats ... <img src="https://komarev.com/ghpvc/?username=piyush-kumar-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-kumar-mishra" </p>
-</h3> 
 
+# GitHub Stats:  <img src="https://komarev.com/ghpvc/?username=piyush-kumar-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-kumar-mishra">
+</br>
+
+<p align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Piyush-Kumar-Mishra&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Piyush-Kumar-Mishra&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Kumar-Mishra&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact) ![](https://github-contributor-stats.vercel.app/api?username=Piyush-Kumar-Mishra&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+</p>
+
+</br>
 <p>
   <img 
     alt="Activity Graph" 
     src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-kumar-mishra&bg_color=0D1117&color=00e6a8&line=00e6a8&point=FFFFFF&hide_border=true"
-  />
+ />
+
+</br>
+
+---
 
 </p>
