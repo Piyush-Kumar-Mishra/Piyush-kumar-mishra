@@ -113,7 +113,6 @@
 
 
 # GitHub Stats:  <img src="https://komarev.com/ghpvc/?username=piyush-kumar-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-kumar-mishra">
-</br>
 
 <p align="center">
 
@@ -124,10 +123,12 @@
 </p>
 
 </br>
+
+<!-- src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-kumar-mishra&bg_color=0D1117&color=00e6a8&line=00e6a8&point=FFFFFF&hide_border=true" -->
 <p>
   <img 
     alt="Activity Graph" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-kumar-mishra&bg_color=0D1117&color=00e6a8&line=00e6a8&point=FFFFFF&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-kumar-mishra&bg_color=0D1117&color=00e6a8&line=00e6a8&point=FFFFFF"
  />
 
 </br>
