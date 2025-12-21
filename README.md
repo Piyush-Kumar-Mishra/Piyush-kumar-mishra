@@ -116,12 +116,15 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar-Mishra&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" height="180"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar-Mishra&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" height="180"/> -->
+ 
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=Piyush-Kumar-Mishra&theme=transparent" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Kumar-Mishra&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180"/>
-
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Kumar-Mishra&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180"/>
+ -->
+ 
+  
   <img src="https://github-contributor-stats.vercel.app/api?username=Piyush-Kumar-Mishra&limit=5&theme=transparent&combine_all_yearly_contributions=true" height="180"/>
 
 </p>
