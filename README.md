@@ -38,20 +38,14 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/user-attachments/assets/f7bc1100-3026-4667-adef-9c2026f54f24" width="48" height="48" />
+        <img src="https://github.com/user-attachments/assets/ba747568-4fc7-434d-a934-689e44a2de6b" width="48" height="48" />
       </a>
-      <br>Android
+      <br>Kotlin
     </td>
-        <td align="center" width="96"><img width="512" height="512" alt="IntelliJ IDEA" src="https://github.com/user-attachments/assets/56d811de-0168-4360-a4d4-dd9bb45cd052" />
+        <td align="center" width="96"><img width="512" height="512" alt="Compose" src="https://github.com/user-attachments/assets/46eca784-ef8e-40b4-b194-6c30e896ec27" />
       <a href="#macropower-tech">
       </a>
-      <br>IntelliJ IDEA
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/user-attachments/assets/f9917cb9-d34b-40b9-91a7-cae7684528f2" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Android Studio
+      <br>Compose
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -79,9 +73,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/user-attachments/assets/ba747568-4fc7-434d-a934-689e44a2de6b" width="48" height="48" alt="kotlin" />
+        <img src="https://github.com/user-attachments/assets/c8cebe40-d479-4b11-bbd7-3f104fd8506d" width="48" height="48" alt="kotlin" />
       </a>
-      <br>Kotlin
+      <br>AWS RDS
     </td>
       <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -91,17 +85,24 @@
     </td>
       <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/user-attachments/assets/71aa48fe-6621-449e-9ca8-419adef3e5bb" width="48" height="48" alt="Vs code" />
+        <img src="https://github.com/user-attachments/assets/696b8707-0b80-4b28-96ab-c840841baa20" width="70" height="70" alt="Compose" />
       </a>
-      <br>Vs Code
+      <br>AWS EC2
       <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/user-attachments/assets/d9e9bcf4-fe28-41dc-a295-0ce0c58d9f1c" width="48" height="48" alt="Firebase" />
+        <img src="https://github.com/user-attachments/assets/3acd83c4-1cc1-4967-a2a2-46573027baad" width="48" height="48" alt="Firebase" />
       </a>
-      <br>Firebase
+      <br>AWS S3
     </td>
   </tr>
 </table>
+
+| JUnit| Espresso | Rest Api |  Postman |
+|--------------------|------------------|------------------|----------------------|
+
+| MVVM Architecture | Repository Pattern | Retrofit |Kotlin Coroutines | Dependency Injection |
+|-------------------|-------------------|-----------|------------------|-----------------------|
+
 
 <!-- <h2 align="left" id="macropower-tech">Holopin Badges</h2> -->
 # Holopin Badges
