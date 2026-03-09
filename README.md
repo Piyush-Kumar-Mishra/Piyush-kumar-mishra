@@ -97,7 +97,7 @@
   </tr>
 </table>
 
-| JUnit| Espresso | Rest Api |  Postman |
+| JUnit | Mockito | Rest Api |  Postman |
 |--------------------|------------------|------------------|----------------------|
 
 | MVVM Architecture | Repository Pattern | Retrofit |Kotlin Coroutines | Dependency Injection |
