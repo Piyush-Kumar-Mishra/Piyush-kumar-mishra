@@ -105,7 +105,7 @@
 
 
 <!-- <h2 align="left" id="macropower-tech">Holopin Badges</h2> -->
-# Holopin Badges
+# [Holopin Badges ↗](https://www.holopin.io/@piyushkumarmishra#badges)
 
 <br>
 <img width="1027" height="295" alt="image" src="https://github.com/user-attachments/assets/b2263491-ea8a-4ddf-90e2-57e7f7461f07" />
