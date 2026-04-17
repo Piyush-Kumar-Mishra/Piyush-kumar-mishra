@@ -114,18 +114,16 @@
 
 
 # GitHub Stats: 
-
-</br>
-
-</br>
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar-Mishra&theme=github_dark&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=Piyush-Kumar-Mishra&theme=tokyonight&hide_border=true" height="180"/>
 <!-- <img src="https://komarev.com/ghpvc/?username=piyush-kumar-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-kumar-mishra"> -->
 
-<p align="center">
+
 
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar-Mishra&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" height="180"/>
  <img src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar-Mishra&theme=tokyonight&hide_border=true" height="180"/>-->
-<img src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar-Mishra&theme=github_dark&hide_border=true" height="180"/>
-<img src="https://streak-stats.demolab.com?user=Piyush-Kumar-Mishra&theme=tokyonight&hide_border=true" height="180"/>
+
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Kumar-Mishra&layout=compact&theme=tokyonight&hide_border=true" height="180"/> -->
 
 
