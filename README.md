@@ -115,8 +115,8 @@
 
 # GitHub Stats: 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar-Mishra&theme=github_dark&hide_border=true" height="180"/>
-<img src="https://streak-stats.demolab.com?user=Piyush-Kumar-Mishra&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar-Mishra&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Piyush-Kumar-Mishra&theme=github_dark&hide_border=true" height="180"/>
 <!-- <img src="https://komarev.com/ghpvc/?username=piyush-kumar-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-kumar-mishra"> -->
 
 
