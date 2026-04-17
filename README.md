@@ -112,7 +112,8 @@
 <br>
 
 # GitHub Stats: 
-<p align="center">
+<br>
+<p>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar-Mishra&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&hide_border=true"/>
   <img height="180" src="https://streak-stats.demolab.com?user=Piyush-Kumar-Mishra&theme=github_dark&hide_border=true"/>
 </p>
@@ -133,13 +134,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar-Mishra&theme=dracula&hide_border=true" height="180"/> -->
 
 <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=Piyush-Kumar-Mishra&theme=transparent" height="180"/> -->
-
-
-
-</br>
-
-</br>
-</br>
 </br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-Kumar-Mishra&theme=tokyo-night"/>
 
