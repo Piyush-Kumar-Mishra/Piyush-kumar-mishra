@@ -113,33 +113,54 @@
 <br>
 
 
-# GitHub Stats:  <img src="https://komarev.com/ghpvc/?username=piyush-kumar-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-kumar-mishra">
+# GitHub Stats: 
+
+</br>
+
+</br>
+<!-- <img src="https://komarev.com/ghpvc/?username=piyush-kumar-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-kumar-mishra"> -->
 
 <p align="center">
 
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar-Mishra&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" height="180"/> -->
- 
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar-Mishra&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" height="180"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar-Mishra&theme=tokyonight&hide_border=true" height="180"/>-->
+<img src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar-Mishra&theme=github_dark&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=Piyush-Kumar-Mishra&theme=tokyonight&hide_border=true" height="180"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Kumar-Mishra&layout=compact&theme=tokyonight&hide_border=true" height="180"/> -->
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Piyush-Kumar-Mishra&theme=transparent" height="180"/>
 
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Kumar-Mishra&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180"/>
- -->
- 
-  
-  <img src="https://github-contributor-stats.vercel.app/api?username=Piyush-Kumar-Mishra&limit=5&theme=transparent&combine_all_yearly_contributions=true" height="180"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar-Mishra&theme=tokyonight&hide_border=true" height="180"/> -->
+
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar-Mishra&theme=radical&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar-Mishra&theme=dracula&hide_border=true" height="180"/> -->
+
+<!-- <img src="https://nirzak-streak-stats.vercel.app/?user=Piyush-Kumar-Mishra&theme=transparent" height="180"/> -->
+
+
+
+</br>
+
+</br>
+</br>
+</br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-Kumar-Mishra&theme=tokyo-night"/>
+
+
+<!--   <img src="https://github-contributor-stats.vercel.app/api?username=Piyush-Kumar-Mishra&limit=5&theme=transparent&combine_all_yearly_contributions=true" height="180"/> -->
 
 </p>
 
 </br>
 
 <!-- src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-kumar-mishra&bg_color=0D1117&color=00e6a8&line=00e6a8&point=FFFFFF&hide_border=true" -->
-<p>
+<!-- <p>
   <img 
     alt="Activity Graph" 
     src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-kumar-mishra&bg_color=0D1117&color=00e6a8&line=00e6a8&point=FFFFFF"
  />
 
-</br>
+</br> -->
 
 ---
 
